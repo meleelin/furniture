@@ -17,7 +17,7 @@ import Model9 from './Component/Model_11.js'
 import Model10 from './Component/Model_1.js'
 import Model11 from './Component/Model_14.js'
 
-// 草地
+// 地板
 import Plane from './Plane.js'
 
 function App() {
