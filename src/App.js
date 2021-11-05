@@ -72,7 +72,7 @@ function App() {
           }}
         >
           <figure>
-            <img src={`./images/model_${i}.png`} alt="" />
+            <img src={`./image/model_${i}.png`} alt="" />
           </figure>
         </li>
       )
