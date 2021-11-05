@@ -20,7 +20,7 @@ body,
   bottom: 0px;
   right: 0px;
   width: 100vw;
-  height: 300px;
+  height: 20vh;
   list-style: none;
   display: flex;
   align-items: center;
@@ -28,23 +28,23 @@ body,
 }
 
 .picker figure {
-  width: 80px;
-  height: 80px;
+  width: 70px;
+  height: 70px;
   margin: 0 auto;
   cursor: pointer;
   transition: 0.1s ease;
 }
 
 .picker figure img {
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
   border: 3px solid #707070;
   border-radius: 100%;
   background: rgba(199, 199, 199, 0.5);
   object-fit: cover;
 }
 .picker figure:hover {
-  width: 120px;
-  height: 120px;
+  width: 90px;
+  height: 90px;
   transition: 0.1s ease;
 }
